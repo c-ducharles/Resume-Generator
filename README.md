@@ -7,4 +7,4 @@ The site in itself is build on HTML-CSS and uses PHP to change dynamically some 
 To do that, the informations of the users are stored on an SQL server and the web-site then fetch these data to create the resume.
 To generate it, we used the fpdf library otherwise the layout would have been impossible.
 
-![image](https://user-images.githubusercontent.com/72990665/162157300-3845fbd5-3d11-418f-9a77-5f5fa2059371.png)
+![image](https://user-images.githubusercontent.com/72990665/162157429-d08a9124-388c-4cae-8f9f-2e18e7ee96d6.png)
